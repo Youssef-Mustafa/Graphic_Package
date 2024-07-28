@@ -4,6 +4,10 @@
 
 This Flutter application is a comprehensive graphic package tool designed for drawing and manipulating basic geometric shapes. It is an educational tool that demonstrates the implementation of various graphic algorithms and transformations.
 
+
+[![Watch the video](https://github.com/Youssef-Mustafa/Graphic_Package/blob/main/Screenshot%20(341).png)](https://github.com/Youssef-Mustafa/Graphic_Package/blob/main/Graphic_Package.mp4)
+
+
 ### Features
 
 1. **Draw Lines**
